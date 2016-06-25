@@ -1,0 +1,5 @@
+/php-*
+/wxphp*
+/AppRun
+*.tar.gz
+*.tar.bz2

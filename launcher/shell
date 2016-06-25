@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "wxPHP Terminal
+===========================================================
+You can execute wxPHP scripts as follows:
+
+    /path/to/wxphp script.php
+
+You can also set an alias for easy cli access:
+
+    alias wxphp='/path/to/wxphp'
+===========================================================
+"
+
+cd ~
+
+exec /bin/bash
